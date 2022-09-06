@@ -28,9 +28,11 @@ I recently take the plane to Italy and make this app (4h of work)
 - Score streak
 - Landing page
 - Ends the game when the player cannot place block anymore
+- Possibility for objects to rotate (not appear on the same position each time)
 
 ## bugs
 
 - When to block are the same, sometimes the wrong one disapear
 - Sometimes the block you just used disapear
 - When you overflow the grid, previous lines deleted appear again
+- Draggable object is doing weird things
